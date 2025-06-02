@@ -1,0 +1,13 @@
+# Ignore OCR screenshots
+live_capture_*.png
+
+# Ignore local prompt/response state
+live_prompt.txt
+live_response.txt
+
+# Ignore Python junk
+__pycache__/
+*.pyc
+
+# Ignore macOS files
+.DS_Store
